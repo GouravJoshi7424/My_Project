@@ -6,3 +6,15 @@
 
 ## Record's Update in database MongoDB
 ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/76ae393b-0e7d-4aa5-85ae-9761a2c2f095)
+
+## Find All Record's Present in Database
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/1510dac3-005d-41f8-aaa5-423007f10156)
+
+## Search Record by ID
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/45729d89-53b5-4b0b-bd1e-298b9aadd2b7)
+
+## When Record is not present in database
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/da46f27d-8632-45aa-ba34-5c869325a992)
+
+
+
