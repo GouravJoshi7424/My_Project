@@ -22,8 +22,17 @@
 ## Updated Database with deleted recoud id 22 MCA 0226
 ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/751a89a1-f80e-44c9-bf2e-d2c8e992b469)
 
-## Delete record which is not present in Database
+## Try to delete record which is not present in Database
 ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/1ca3b1dc-ce8f-4da3-9cac-473013d36099)
+
+## Update Record
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/b044ca04-3adf-407f-8314-6e6f5683beb7)
+
+## Updated Database
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/dd12b887-fbb2-4edb-a944-e51d9170941a)
+
+# Task 2
+
 
 
 
