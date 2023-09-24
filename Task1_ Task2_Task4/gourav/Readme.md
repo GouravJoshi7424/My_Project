@@ -16,5 +16,16 @@
 ## When Record is not present in database
 ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/da46f27d-8632-45aa-ba34-5c869325a992)
 
+## Delete Record Using ID
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/9a4e2c1a-4e5c-4eda-a83a-31534e7f68c3)
+
+## Updated Database with deleted recoud id 22 MCA 0226
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/751a89a1-f80e-44c9-bf2e-d2c8e992b469)
+
+## Delete record which is not present in Database
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/1ca3b1dc-ce8f-4da3-9cac-473013d36099)
+
+
+
 
 
