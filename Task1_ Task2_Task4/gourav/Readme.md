@@ -33,6 +33,14 @@
 
 # Task 2
 
+![WhatsApp Image 2023-09-24 at 15 00 35](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/85b48559-802e-4ead-9600-fd22040a0663)
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/b34e556e-7615-4ac9-a621-88c400e1cee7)
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/901650be-3514-46f0-9831-ea55eafe1fff)
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/fd0b6069-751c-4405-b06c-f4b7b6b2b250)
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/a62702a7-a473-4634-ba7f-0ec980a42345)
+
+
+
 
 
 
