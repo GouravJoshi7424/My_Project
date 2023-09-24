@@ -40,6 +40,35 @@
 ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/a62702a7-a473-4634-ba7f-0ec980a42345)
 
 
+# Task 4
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/dcf58f9a-622e-42c8-8ded-7f918593bcc7)
+
+## Get All Details 
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/347e2422-fc92-45a5-b7ac-df30e275257f)
+
+## Search By Id
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/bb2b9641-537e-47ba-a6b9-945b5ebec71c)
+
+## Delete Record 22MCA0286
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/0fc45fd7-e8c7-4ef0-ab28-3545c735fb14)
+
+## Updated Database
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/799834fc-63a0-4146-89a4-3295f9e1f967)
+
+## When Try to delete record which is not present in the memory
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/8e281bca-ac77-4118-b4ca-42ddb690e9f9)
+
+## Add New Record
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/1ac6c024-21da-44fa-8880-ddc358e75ab8)
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/589668b6-fb42-49e0-93a3-5b387f15b405)
+
+## Updated Database 
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/5fbb005a-164e-4c82-b782-83d643299b0f)
+
+
+
+
+
 
 
 
