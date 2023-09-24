@@ -84,6 +84,8 @@ spring-server_1  | 2020-04-04 21:05:03.885  INFO 1 --- [           main] o.apach
 
 ![DockerServExcAndLogs](/screenshots/task3dockerServExcAndLogs.PNG)
 
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/67ebaec9-8791-4d18-99bd-fc7243fb3a47)
+
 **Note:** *The docker-compose part is Documented in Task3*
 
 **If run into problem, do not hesitate to comment or connect :smile: !**
