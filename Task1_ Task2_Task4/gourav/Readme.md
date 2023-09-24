@@ -1,3 +1,5 @@
 # Task_1
-## Add New Record 
+## Adding New Record's 
 ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/3e9c5002-5b2a-40dc-9b67-d443e885c55c)
+ ![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/c599fd81-66c6-4343-b55e-5910d3072397)
+![image](https://github.com/GouravJoshi7424/Kaiburr-Task-New/assets/145137101/5e999b63-1b2e-434f-95f9-f4c85f7dd82a)
